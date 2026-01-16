@@ -1,2 +1,2 @@
-# Ola mundo
-Primeiro repositório
+# Olá, mundo!
+Primeiro repositório - aprendendo a mexer no Git e GitHub
