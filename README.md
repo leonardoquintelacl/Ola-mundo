@@ -24,14 +24,16 @@ _*juntando cofigurações*_
 *Teste
 
 ## Lista numerada
+
 1.Teste
-1.teste2
+1.Teste2
 
 ## Lista de tarefas
 [x] Escrever
 [] Desenhar
 
 ## Criar link
+
 [Acesse a música](https://youtu.be/3wWzcunjIcc?si=i1CLk91uUd38DxMK)
 
 ## Tabela
